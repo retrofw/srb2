@@ -1,0 +1,10 @@
+Package: srb2
+Version: 
+Description: RetroGame port of Sonic Robo Blast
+Section: emus
+Priority: optional
+Maintainer: pingflood
+Architecture: mipsel
+Homepage: https://github.com/retrofw/srb2
+Depends:
+Source: https://github.com/retrofw/srb2

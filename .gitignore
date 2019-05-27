@@ -1,0 +1,6 @@
+objs
+objs/*
+*.o
+*.ipk
+*.elf
+*.elf.debug
