@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Sonic RB2
+Comment=Sonic Robo Blast 2 game port
+Exec=srb2.dge
+Icon=srb2
+Categories=games;
+X-OD-Manual=srb2.man.txt
+X-OD-Selector=
+X-OD-Filter=
+Terminal=false
+Type=Application
+StartupNotify=true

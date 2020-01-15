@@ -1,0 +1,4 @@
+title=Sonic RB2
+description=Sonir Robo Blast 2
+exec=/home/retrofw/games/srb2/srb2.elf
+clock=600

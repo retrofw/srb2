@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "This is a huge IPK."
+echo "Installation will take some time."
+echo "Please wait.."
